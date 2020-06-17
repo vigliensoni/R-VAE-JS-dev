@@ -1,0 +1,73 @@
+#inner-container {
+  /* background-color: #8ED9FF; */
+  background-color: #000000;
+  width:800px;
+  padding:20px;
+  position:absolute;
+}
+
+#main-container {
+  /* background-color: #8ED9FF; */
+  background-color: #000000;
+  width:auto;
+  height:800px;
+}
+
+body {
+  font-family: 'Staatliches';
+  font-size: 30px;
+  /* color: black; */
+  color: whitesmoke;
+  background-color: #000000;
+  text-align: left;
+}
+
+#title {
+  font-size: 200%; 
+}
+
+#subtitle {
+  font-size: 70%; 
+}
+
+#section {
+  font-size: 50%; 
+}
+
+#LSVisualizer {
+  padding: 0;
+  margin: auto;
+  display: block;
+  width: 800px;
+}
+
+button {
+  background-color: transparent;
+  color:grey;
+  border:solid black 5px;
+  width:120px;
+  padding:10px;
+  margin:10px;
+  font-family: 'Staatliches';
+    font-size: 25px;
+}
+
+button:hover {
+  background-color: transparent;
+  color:#FFD12C;
+  border:solid #FFD12C 5px;
+}
+
+#knobs {
+  display: inline-block;
+  color: #red;
+  font-size: 100%;
+}
+
+
+
+/* #performanceCanvas {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+} */
