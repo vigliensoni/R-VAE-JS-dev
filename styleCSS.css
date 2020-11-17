@@ -159,3 +159,7 @@ a:link {
 a:hover{
   color: red;
 }
+
+a:visited {
+  color: white;
+}
